@@ -2,7 +2,7 @@ import socket
 
 # Try this with example.com first, but try changing it to a different site after
 # you get it working.
-hostname = "example.com"
+hostname = "google.com"
 
 
 # Do not modify this function
